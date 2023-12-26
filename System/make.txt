@@ -1,2 +1,0 @@
-write this line on terminal ---->   type .\make.txt | cmd
- gcc .\Application\application.c .\Data_Bases\File_Handling\file_handling.c .\Data_Structures\List\list.c .\Data_Structures\Stack\Stack.c .\Payment_System\Card\card.c .\Payment_System\Server\server.c .\Payment_System\Terminal\terminal.c -o Payment_Application.exe
